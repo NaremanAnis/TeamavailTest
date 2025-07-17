@@ -1,0 +1,16 @@
+# .gitignore
+
+__pycache__/
+*.pyc
+.env
+*.log
+*.sqlite3
+*.db
+*.DS_Store
+
+# Docker
+*.pid
+*.seed
+*.tar
+
+node_modules/
